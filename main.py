@@ -1,4 +1,9 @@
-
+#" Grupo 3: Gestión de servicios de Restaurante "
+#INTEGRANTES:
+# ALCIVAR BAZURTO ANA DANIELA
+# ANZULES AGUILAR NEICER JOSUE
+# LEON SEGURA ANTHONY DAVID(no participa en el trabajo)
+# MOREIRA AGUIÑO JARIB JORGE
 from servicio_restaurante import ServicioRestaurante
 from servicio_mesa import ServicioMesa
 from servicio_delivery import ServicioDelivery
