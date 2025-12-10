@@ -1,3 +1,9 @@
+#" Grupo 3: Gestión de servicios de Restaurante "
+#INTEGRANTES:
+# ALCIVAR BAZURTO ANA DANIELA
+# ANZULES AGUILAR NEICER JOSUE
+# LEON SEGURA ANTHONY DAVID(no participa en el trabajo)
+# MOREIRA AGUIÑO JARIB JORGE
 class ServicioRestaurante:
     """
     Superclase base para todos los servicios del restaurante.
