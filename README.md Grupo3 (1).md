@@ -96,6 +96,9 @@ Incluye: - **fecha** - **servicio asociado** - **monto total**
 
 ![image alt](https://github.com/jaribjorgemoreiraaguino-dot/Grupo-3-Gesti-n-de-servicios-de-Restaurante-/blob/2fae3185cdb6672173584d7cfdd2a005cd682265/Captura%20de%20pantalla%202025-12-09%20162302.png)
 
+link del video
+[https://drive.google.com/file/d/1HLMRcFjtRu9MNp--h9IP14TGtuxfnJEN/view?usp=sharing](https://1drv.ms/f/c/e569e7c9ba9b778c/IgByVrT-O3ntSpGT7J0DwqRvAamvKINWk-0_QtpI83bRNc0?e=ORvNR0)
+
 ------------------------------------------------------------------------
 
 ## Proyecto Finalizado
